@@ -4,6 +4,14 @@ The official implementation of "GAReT: Cross-view Video Geolocalization with Ada
 
 Model Checkpoints: https://drive.google.com/drive/folders/1-_8e06Qo8e7RHjbPgtAzE_aRsrEUgMP0?usp=sharing
 
+## Checklist
+- [x] Model Files
+- [x] Dataloader Files
+- [x] Training Files
+- [x] Inference Files
+- [ ] Training Instructions
+- [ ] Testing Instructions
+- [ ] Putting it All Together
 
 ## Acknowledgement
 * [TSP_Transformer](https://github.com/xbresson/TSP_Transformer)
